@@ -4,7 +4,7 @@ import datetime
 from requests import get,post
 from json import loads
 math 
-bot=Bot("tnuqjhohmjbzmmruqdcvdxefxztxcmui")
+bot=Bot("eozxuulhncqllkdwqrpvvqwjvvnsdtlo")
 #در قسمت بالا شناسه اکانت را وارد کنید
 list_message_seened = []
 time_reset = round(datetime.datetime.today().timestamp()) + 350
